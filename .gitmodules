@@ -1,0 +1,3 @@
+[submodule "LiveCharts"]
+	path = LiveCharts
+	url = https://github.com/vhatsura/Live-Charts
